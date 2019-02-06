@@ -1,0 +1,24 @@
+{
+  "name": "apicorreionodejs",
+  "version": "1.0.0",
+  "description": "Api dos correios com Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeandroMelloo/apiCorreioNodeJS.git"
+  },
+  "author": "Leandro Mello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeandroMelloo/apiCorreioNodeJS/issues"
+  },
+  "homepage": "https://github.com/LeandroMelloo/apiCorreioNodeJS#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "node-correios": "^2.2.0"
+  }
+}
